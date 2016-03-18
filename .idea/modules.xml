@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/emeddingGradle.iml" filepath="$PROJECT_DIR$/emeddingGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/emeddingGradle.iml" filepath="$PROJECT_DIR$/.idea/modules/emeddingGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/emeddingGradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/emeddingGradle_main.iml" group="emeddingGradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/emeddingGradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/emeddingGradle_test.iml" group="emeddingGradle" />
     </modules>
   </component>
 </project>
